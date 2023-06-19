@@ -8,7 +8,7 @@
 ![My Image](cs50-flowchart-paul-muenzner.png)
 
  ### CS50 final project requirements:
- The CS50 Programming with Python final project is subject to the following repuirements: [Link](https://cs50.harvard.edu/python/2022/project/)
+ The CS50 Programming with Python final project is subject to the following repuirements: [Link](https://cs50.harvard.edu/python/2022/project/) <br>
  Harvard also requires, among other things, that the project is implemented in Python and all Python functions (min 4 incl. main) are in project.py placed in the root of the project.
  Any pip-installable libraries used must be listed, one per line, in a file called requirements.txt in the root of the project.
 
