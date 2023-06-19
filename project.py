@@ -239,17 +239,3 @@ if __name__ == "__main__":
     main()
 
 
-
-
-
-
-
-# CITE ORIGINS OF APPLIED METHODS NOT COVERED IN THE COURSE AS PER ACADEMIC HONESTY ( https://cs50.harvard.edu/python/2022/honesty/ )
-##
-# Bcrypt for hashing passwords from https://pypi.org/project/bcrypt/ & https://github.com/pyca/bcrypt/
-# Initiating variables with ternary operator - information for example from https://docs.python.org/3/reference/expressions.html#conditional-expressions or https://www.blog.pythonlibrary.org/2012/08/29/python-101-the-ternary-operator/
-# validators from https://validators.readthedocs.io/en/latest/
-# Information for creating new files within the program from https://www.pythontutorial.net/python-basics/python-create-text-file/
-# datetime from https://docs.python.org/3/library/datetime.html
-# timezone for function time_now_london() from https://docs.python.org/3/library/datetime.html#datetime.datetime.utcnow together with timedelta https://docs.python.org/3/library/datetime.html#timedelta-objects
-# timestamp() to convert datetime to seconds https://pynative.com/python-datetime-to-seconds/ and https://docs.python.org/3/library/datetime.html#datetime.datetime.timestamp
