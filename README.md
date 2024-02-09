@@ -9,6 +9,21 @@
 [![Contributors][contributors-shield]][contributors-url]
 
 
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <h3 align="center">Harvard Final Project</h3>
+  <h4 align="center">Programming with Python</h4>
+
+  <p align="center">
+    Authorization - Testing - Validation
+    <br />
+    <a href="#about"><strong>EXPLORE DOCS</strong></a>
+    <br />
+    <br />
+  </p>
+</div>
+
 ![Header](assets/harvard-python-final-project-paul-muenzner.png)
 
 
