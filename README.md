@@ -3,6 +3,7 @@
 
 
 [![GNU License][license-shield]][license-url]
+[![Python](https://img.shields.io/badge/Python-3.11.3-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 ![GitHub repo size](https://img.shields.io/github/repo-size/paulmuenzner/harvard-university-final-project-python) 
 [![paulmuenzner github][github-shield]][github-url] 
 [![Contributors][contributors-shield]][contributors-url]
@@ -54,7 +55,7 @@
 <!-- ABOUT THE FINAL PROJECT -->
 ## About
 
-This Python application serves as the culmination of a simplified authentication process. Developed by Paul Münzner as part of Harvard's Programming with Python course, the application provides users with two distinct options. Individuals can choose to register using an email address and password or attempt to log in by providing their email address and password.
+This Python application serves as the culmination of a simplified authentication process. Developed by Paul Münzner as part of Harvard's Programming with Python course, the application provides users with two distinct options. Individuals can choose to register using an email address and password or attempt to log in by providing their email address and password. This project adheres to specific requirements, guidelines and constraints outlined by Harvard.
 
 [![Video presentation](https://img.youtube.com/vi/gy8zwpGeDAU/0.jpg)](https://www.youtube.com/watch?v=gy8zwpGeDAU)
 
@@ -80,7 +81,7 @@ This course, offered by Harvard University through [Harvard Online](https://www.
 
 ### Requirements
 
-This Python application, developed as a final project for Harvard's course 'CS50’s Introduction to Programming with Python,' adheres to specific requirements and guidelines outlined by the course. Understanding these constraints will help users navigate the structure and conventions of the project. 
+This Python application, developed as a final project for Harvard's course 'Introduction to Programming with Python', adheres to specific requirements and guidelines outlined by the course. Understanding these constraints will help users navigate the structure and conventions of the project. 
 
 Understanding these requirements will provide insight into the project's structure and how it aligns with the specifications set forth by the course.
 
@@ -109,38 +110,14 @@ Understanding these requirements will provide insight into the project's structu
 -   Any pip-installable libraries essential for the project are listed in a file named requirements.txt in the root of the project. Each library is listed on a separate line.
 
 
-## Features
-
--   **Super Clean Design**: Enjoy a sleek and intuitive user interface, providing an elegant commenting experience.
-
--   **Flexibility at Its Core**: Customize the component effortlessly by defining maximum character limits for each input field.
-
--   **Voting System**: Enable or disable upvoting and downvoting functionality with the flexibility to control the counter update and disable specific voting options. Configure the display of top and bottom comment buttons and change button text seamlessly via the settings in `settings.tsx`.
-
--   **Modal Form with React Portal**: Enhance security with a modal form for adding and answering comments, implemented using React Portal.
-
--   **Input Validation**: Ensure data integrity with input validations such as character limits, email validation, and prevention of special characters.
-
--   **Pagination Configuration**: Tailor the number of parent comments displayed per page by configuring the maximum number in the settings.
-
--   **Threaded Comments**: Enable answering of parent comments in the first level, with answers displayed in the second level and indented for clarity.
-
--   **Dynamic Date Display**: Dynamically present the age of comments, ranging from seconds for comments less than a minute old to days for comments older than 5 days. Dates older than 5 days are displayed in the US date format.
-
--   **Character Counter**: Provide users with a character counter in the comment field for easy reference.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 ### Tech Stack <a name="tech-stack"></a>
 
 This project is basically built with and for:
 
-*   [![React][react-shield]](https://reactjs.org/)
-*   [![TypeScript][ts-shield]](https://www.typescriptlang.org/)
-*   [![Vite][vite-shield]](https://vitejs.dev/)
-*   [![Styled Components][styled-components-shield]](https://styled-components.com/)
-
+*   [![Python](https://img.shields.io/badge/Python-3.11.3-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+*   [![pytest](https://img.shields.io/pypi/v/pytest?label=pytest&logo=pytest)](https://pytest.org/)
+*   [![bcrypt](https://img.shields.io/pypi/v/bcrypt?label=bcrypt&logo=bcrypt)](https://pypi.org/project/bcrypt/)
+*   [![Validators Documentation](https://img.shields.io/badge/Python-Validators-3776AB)](https://validators.readthedocs.io/en/latest/)
 
 
 
@@ -155,19 +132,12 @@ Coming soon ...
 <!-- ROADMAP -->
 ## Roadmap
 
-No roadmap existing as this is a final project to pass this course provided by Harvard University.
-
-
-See the [open issues](https://github.com/paulmuenzner/harvard-university-final-project-python/issues) to report bugs or request fatures.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
+This project, designed to fulfill the requirements of the Harvard University course, serves as the final assignment, and thus, no roadmap is available.
 
 <!-- LICENSE -->
 ## License
 
-Distributed under the GNU General Public License v2.0. See [LICENSE](LICENSE.txt) for more information.
+Distributed under the MIT License. See [LICENSE](LICENSE.txt) for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
