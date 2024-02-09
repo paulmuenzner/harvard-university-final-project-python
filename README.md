@@ -4,7 +4,7 @@
 
 [![MIT License][license-shield]][license-url]
 [![Python](https://img.shields.io/badge/Python-3.11.3-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-![GitHub repo size](https://img.shields.io/github/repo-size/paulmuenzner/harvard-university-final-project-python) 
+![GitHub code size](https://img.shields.io/github/languages/code-size/paulmuenzner/harvard-university-final-project-python) 
 [![paulmuenzner github][github-shield]][github-url] 
 [![Contributors][contributors-shield]][contributors-url]
 
