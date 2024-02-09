@@ -34,7 +34,7 @@
 </div>
 
 
-![Header](public/harvard-python-final-project-paul-muenzner.png)
+![Header](assets/harvard-python-final-project-paul-muenzner.png)
 
 
 <!-- TABLE OF CONTENTS -->
