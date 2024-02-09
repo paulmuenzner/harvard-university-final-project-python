@@ -2,54 +2,14 @@
 
 
 
-[![GNU License][license-shield]][license-url]
+[![MIT License][license-shield]][license-url]
 [![Python](https://img.shields.io/badge/Python-3.11.3-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 ![GitHub repo size](https://img.shields.io/github/repo-size/paulmuenzner/harvard-university-final-project-python) 
 [![paulmuenzner github][github-shield]][github-url] 
 [![Contributors][contributors-shield]][contributors-url]
 
 
-
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/paulmuenzner/harvard-university-final-project-python">
-    <img src="public/logo.png" alt="Logo" width="128" height="128">
-  </a>
-
-  <h3 align="center">React TS Comment Component</h3>
-
-  <p align="center">
-    Votes - Pagination - ReactPortal Modal
-    <br />
-    <a href="#about-the-project"><strong>EXPLORE DOCS</strong></a>
-    <br />
-    <br />
-  </p>
-</div>
-
-
 ![Header](assets/harvard-python-final-project-paul-muenzner.png)
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#about-the-project">About The Project</a></li>
-    <li><a href="#features">Features</a></li>
-    <li><a href="#demo">Demo</a></li>
-    <li><a href="#getting-started">Getting Started</a></li>
-    <li><a href="#settings">Settings</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
 
 
 <!-- ABOUT THE FINAL PROJECT -->
@@ -62,6 +22,8 @@ This Python application serves as the culmination of a simplified authentication
 
 ### Details
 The registration process involves validating the password using regex to ensure it adheres to a specific format. The email address is validated using the validators library installed via pip. Conversely, the login input is intentionally not validated to prevent providing hints to potential malicious users.
+
+![Flowchart](assets/cs50-flowchart-paul-muenzner.png)
 
 Upon successful registration, the relevant data, namely the email address and password in a hashed format, is stored in a CSV file. This information is essential for subsequent logins.
 
@@ -77,7 +39,6 @@ If a registration with the provided email address exists in registrations.csv an
 
 This course, offered by Harvard University through [Harvard Online](https://www.harvardonline.harvard.edu/course/cs50s-introduction-programming-python), provides a comprehensive understanding to the world of programming using Python. Designed for both beginners and those with some prior programming experience, the course equips you with the fundamental skills and knowledge needed to navigate the exciting world of coding.
 
-![Flowchart](assets/cs50-flowchart-paul-muenzner.png)
 
 ### Requirements
 
@@ -176,5 +137,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [contributors-url]: https://github.com/paulmuenzner/harvard-university-final-project-python/graphs/contributors
 [issues-shield]: https://img.shields.io/github/issues/paulmuenzner/harvard-university-final-project-python.svg
 [issues-url]: https://github.com/paulmuenzner/harvard-university-final-project-python/issues
-[license-shield]: https://img.shields.io/badge/license-GPL_2.0-orange.svg?colorB=FF5733
+[license-shield]: https://img.shields.io/badge/license-MIT-orange.svg?colorB=FF5733
 [license-url]: https://github.com/paulmuenzner/harvard-university-final-project-python/blob/master/LICENSE.txt
