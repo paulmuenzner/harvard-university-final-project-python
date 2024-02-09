@@ -3,7 +3,7 @@
 
 
 [![GNU License][license-shield]][license-url]
-![GitHub repo size](https://img.shields.io/github/repo-size/paulmuenzner/react-comment-component-ts) 
+![GitHub repo size](https://img.shields.io/github/repo-size/paulmuenzner/harvard-university-final-project-python) 
 [![paulmuenzner github][github-shield]][github-url] 
 [![Contributors][contributors-shield]][contributors-url]
 
@@ -13,7 +13,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/paulmuenzner/react-comment-component-ts">
+  <a href="https://github.com/paulmuenzner/harvard-university-final-project-python">
     <img src="public/logo.png" alt="Logo" width="128" height="128">
   </a>
 
@@ -25,11 +25,6 @@
     <a href="#about-the-project"><strong>EXPLORE DOCS</strong></a>
     <br />
     <br />
-    <a href="#settings">High Flexibility</a>
-    ·
-    <a href="https://github.com/paulmuenzner/react-comment-component-ts/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/paulmuenzner/react-comment-component-ts/issues">Request Feature</a>
   </p>
 </div>
 
@@ -61,7 +56,7 @@
 
 This Python application serves as the culmination of a simplified authentication process. Developed by Paul Münzner as part of Harvard's Programming with Python course, the application provides users with two distinct options. Individuals can choose to register using an email address and password or attempt to log in by providing their email address and password.
 
-[![Video presentation](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
+[![Video presentation](https://img.youtube.com/vi/gy8zwpGeDAU/0.jpg)](https://www.youtube.com/watch?v=gy8zwpGeDAU)
 
 
 ### Details
@@ -157,88 +152,13 @@ This project is basically built with and for:
 Coming soon ...
 
 
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-### Option 1
-
-1. Extract the component from 'src/component/comment' into your project.
-
-2. Configure the component with your desired settings in `settings.tsx`.
-
-3. Integrate the component into your React application for a feature-rich commenting experience.
-
-### Option 2
-
-1. Download as zip or clone this project
- ```sh
- git clone https://github.com/paulmuenzner/react-comment-component-ts.git
- ```
-2. Navigate to the project directory
-```sh
-cd react-comment-component-ts
-```
-3. Install dependencies using npm 
- ```sh
- npm install
- ```
-or using yarn
- ```sh
- yarn
- ```
-3. Run project
- ```sh
- npm run dev
- ```
-or using yarn
- ```sh
- yarn dev
- ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
-<!-- Settings -->
-## Settings
-
-This React Comment Component offers a variety of customizable settings to tailor the behavior and appearance of the comment system. These settings can be found in the 'src/component/comment' directory in the 'settings.tsx' file. Here's an overview of the available settings:
-
-### Define Max Allowed Characters for Comment Fields
-
-- **maxCharsName:** Defines the maximum allowed characters for the commenter's name. Default: 20
-- **maxCharsEmail:** Defines the maximum allowed characters for the commenter's email. Default: 30
-- **maxCharsWebsite:** Defines the maximum allowed characters for the commenter's website. Default: 40
-- **maxCharsComment:** Defines the maximum allowed characters for the comment content. Default: 1000
-
-### Further Settings
-
-- **allowUpVoting:** Enables or disables the upvoting functionality for comments. Default: true
-- **allowDownVoting:** Enables or disables the downvoting functionality for comments. Default: true
-- **allowCommentButtonTop:** Enables or disables the comment button at the top of the comments section. Default: true
-- **allowCommentButtonBottom:** Enables or disables the comment button at the bottom of the comments section. Default: true
-
-### Change & Define Descriptions
-
-- **textButtonTop:** Defines the text for the comment button at the top of the comments section. Default: 'WRITE COMMENT'
-- **textButtonBottom:** Defines the text for the comment button at the bottom of the comments section. Default: 'WRITE COMMENT'
-
-### Miscellaneous
-
-- **maxMainCommentsPerPaginationUnit:** Defines the maximum number of parent comments per pagination unit. Default: 2
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 <!-- ROADMAP -->
 ## Roadmap
 
 No roadmap existing as this is a final project to pass this course provided by Harvard University.
 
 
-See the [open issues](https://github.com/paulmuenzner/react-comment-component-ts/issues) to report bugs or request fatures.
+See the [open issues](https://github.com/paulmuenzner/harvard-university-final-project-python/issues) to report bugs or request fatures.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -258,7 +178,7 @@ Distributed under the GNU General Public License v2.0. See [LICENSE](LICENSE.txt
 
 Paul Münzner: [https://paulmuenzner.com](https://paulmuenzner.com) 
 
-Project Link: [https://github.com/paulmuenzner/react-comment-component-ts](https://github.com/paulmuenzner/harvard-university-final-project-python)
+Project Link: [https://github.com/paulmuenzner/harvard-university-final-project-python](https://github.com/paulmuenzner/harvard-university-final-project-python)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -282,15 +202,9 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [github-shield]: https://img.shields.io/badge/paulmuenzner-black.svg?logo=github&logoColor=ffffff&colorB=000000
 [github-url]: https://github.com/paulmuenzner
-[contributors-shield]: https://img.shields.io/github/contributors/paulmuenzner/react-comment-component-ts.svg
-[contributors-url]: https://github.com/paulmuenzner/react-comment-component-ts/graphs/contributors
-[issues-shield]: https://img.shields.io/github/issues/paulmuenzner/react-comment-component-ts.svg
-[issues-url]: https://github.com/paulmuenzner/react-comment-component-ts/issues
+[contributors-shield]: https://img.shields.io/github/contributors/paulmuenzner/harvard-university-final-project-python.svg
+[contributors-url]: https://github.com/paulmuenzner/harvard-university-final-project-python/graphs/contributors
+[issues-shield]: https://img.shields.io/github/issues/paulmuenzner/harvard-university-final-project-python.svg
+[issues-url]: https://github.com/paulmuenzner/harvard-university-final-project-python/issues
 [license-shield]: https://img.shields.io/badge/license-GPL_2.0-orange.svg?colorB=FF5733
-[license-url]: https://github.com/paulmuenzner/react-comment-component-ts/blob/master/LICENSE.txt
-[react-shield]: https://img.shields.io/badge/React-18.2.0-61DAFB?logo=react&logoColor=white
-[ts-shield]: https://img.shields.io/badge/TypeScript-5.2.2-007ACC?logo=typescript&logoColor=white
-[vite-shield]: https://img.shields.io/badge/Vite-5.0.8-646CFF?logo=vite&logoColor=white
-[styled-components-shield]: https://img.shields.io/badge/Styled%20Components-5.3.1-DB7093?logo=styled-components&logoColor=white
-<!-- [website-shield]: https://img.shields.io/badge/www-paulmuenzner.com-blue
-[website-url]: https://paulmuenzner.com -->
+[license-url]: https://github.com/paulmuenzner/harvard-university-final-project-python/blob/master/LICENSE.txt
